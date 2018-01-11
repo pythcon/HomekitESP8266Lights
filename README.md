@@ -4,6 +4,9 @@ For use with a Raspberry Pi running HomeBridge and an ESP8266. Self-tweaked vers
 Installation/Setup:
 
 Step 1: Install Homebridge on the pi.
+
 Step 2: Open the .ino file in Arduino and write it to the ESP8266.
+
 Step 3: Wire up the LED Strip as shown on my schematic.
+
 Step 4: Done.
