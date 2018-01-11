@@ -1,5 +1,5 @@
 # HomekitESP8266Lights
-For use with a Raspberry Pi running HomeKit and an ESP8266. Self-tweaked version of arudino for your ESP8266 with an included manual light switch feature.
+For use with a Raspberry Pi running HomeBridge and an ESP8266. Self-tweaked version of arudino for your ESP8266 with an included manual light switch feature.
 
 Installation/Setup:
 
